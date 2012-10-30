@@ -9,7 +9,7 @@ package org.jboss.as.quickstarts.poh5helloworld;
 public class HelloService {
 
    String createHelloMessage(String name) {
-      return "Bonjour " + name + "!";
+      return "Salut " + name + "!";
    }
 
 }
